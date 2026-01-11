@@ -54,7 +54,7 @@ YouTubeのプレイリスト内の動画を一括削除するChrome拡張機能
 
 ### 必要な環境
 
-- Node.js 18以上
+- Node.js 24以上（LTS推奨）
 - npm
 
 ### コマンド
