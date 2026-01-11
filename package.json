@@ -1,7 +1,7 @@
 {
   "name": "yt-clean-video-in-list",
   "version": "1.0.0",
-  "description": "YouTubeプレイリストから動画を一括削除するChrome拡張機能",
+  "description": "YouTubeのプレイリスト内の動画を一括削除するChrome拡張機能",
   "author": "yutakiyama",
   "license": "MIT",
   "repository": {

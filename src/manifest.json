@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "YouTube プレイリスト一括削除",
+    "name": "YouTube プレイリスト動画一括削除",
     "version": "1.0.0",
-    "description": "YouTubeのプレイリストから動画を一括削除します",
+    "description": "YouTubeのプレイリスト内の動画を一括削除します",
     "permissions": [
         "activeTab",
         "scripting"

@@ -1,6 +1,6 @@
 # yt-clean-video-in-list
 
-YouTubeプレイリストから動画を一括削除するChrome拡張機能
+YouTubeのプレイリスト内の動画を一括削除するChrome拡張機能
 
 > ⚠️ **注意**: この拡張機能は現在 **日本語版YouTube** でのみ動作します。
 
